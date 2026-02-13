@@ -19,8 +19,8 @@ Website ini berisi informasi biodata pribadi siswa kelas X PPLG 1 yang dibuat me
 
 ## File
 
-- `index.php` - Halaman biodata utama
-- `jadwal.php` - Halaman jadwal pelajaran dan piket
+- `Biodata.php` - Halaman biodata utama
+- `Jadwal.php` - Halaman jadwal pelajaran dan piket
 
 ## Cara Menggunakan
 
@@ -42,4 +42,5 @@ Reizo - X PPLG 1 - 2026
 ---
 
 ⭐ Terimakasih sudah mengunjungi!
+
 
